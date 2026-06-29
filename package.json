@@ -1,7 +1,7 @@
 {
   "name": "@vellum-ai/red-pen",
   "version": "0.1.0",
-  "description": "A writing coach in your pocket. Daily prompts that escalate with your streak, savage-but-constructive draft roasts, query letter critiques for aspiring novelists, and a word count enforcer with Balkan-mom energy.",
+  "description": "A writing coach in your pocket. Daily prompts that escalate with your streak, savage-but-constructive draft roasts, query letter critiques for aspiring novelists, and a word count enforcer that guilt-trips you when you skip.",
   "peerDependencies": {
     "@vellumai/plugin-api": "^0.10.0"
   },

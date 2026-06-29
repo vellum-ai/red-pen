@@ -10,7 +10,7 @@ A writing coach plugin for Vellum. Four skills, seven tools, zero excuses to ski
 
 **Query Letter Doctor** checks your query letter against publishing industry standards: word count in the 250-450 range, hook present, comps cited and recent, bio relevant, agent personalized. Then gives you structural feedback on hook, story stakes, comps, and bio.
 
-**Word Count Enforcer** tracks your writing sessions (word count + duration), maintains a streak, and sends guilt messages with Balkan-mom energy when you skip. "You didn't write yesterday. That's a choice. A bad one, but a choice."
+**Word Count Enforcer** tracks your writing sessions (word count + duration), maintains a streak, and sends guilt messages when you skip. "You didn't write yesterday. That's a choice. A bad one, but a choice."
 
 ## Surfaces
 
@@ -91,7 +91,7 @@ Report your sessions and check your stats.
 "Set my daily target to 1000 words"
 ```
 
-When you skip, you'll hear about it. The guilt is Balkan-mom energy: funny, not cruel, but it lands. One day missed gets a light ribbing. A week gets the full treatment. Every guilt message ends with an invitation to start again.
+When you skip, you'll hear about it. The guilt is funny, not cruel, but it lands. One day missed gets a light ribbing. A week gets the full treatment. Every guilt message ends with an invitation to start again.
 
 Milestones get acknowledged (7-day streak, 30-day streak, 10k words, 50k words) with a nod, not a parade.
 
