@@ -20,7 +20,7 @@ metadata:
     avoid-when:
       - "User wants a writing prompt (use Daily Prompt Forge)"
       - "User wants feedback on a draft (use First Draft Roast)"
-      - "User is asking about reading stats, not writing (that's Nightstand)"
+      - "User is asking about reading stats, not writing (that's Reading Pal)"
 ---
 
 # Word Count Enforcer
